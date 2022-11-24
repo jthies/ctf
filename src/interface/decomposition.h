@@ -1,5 +1,5 @@
-#ifndef __DECOMPOSITION_H__
-#define __DECOMPOSITION_H__
+#ifndef CTF_DECOMPOSITION_H
+#define CTF_DECOMPOSITION_H
 #include "tensor.h"
 #include "matrix.h"
 #include "vector.h"

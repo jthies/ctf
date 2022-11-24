@@ -1,5 +1,5 @@
-#ifndef __SPARSE_TENSOR_H__
-#define __SPARSE_TENSOR_H__
+#ifndef CTF_SPARSE_TENSOR_H
+#define CTF_SPARSE_TENSOR_H
 
 namespace CTF {
   /**

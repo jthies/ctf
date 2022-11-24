@@ -1,5 +1,5 @@
-#ifndef __CUST_TERM_H__
-#define __CUST_TERM_H__
+#ifndef CTF_CUST_TERM_H
+#define CTF_CUST_TERM_H
 
 #include "term.h"
 

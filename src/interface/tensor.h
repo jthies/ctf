@@ -1,5 +1,5 @@
-#ifndef __TENSOR_H__
-#define __TENSOR_H__
+#ifndef CTF_TENSOR_H
+#define CTF_TENSOR_H
 
 #include "functions.h"
 #include "set.h"

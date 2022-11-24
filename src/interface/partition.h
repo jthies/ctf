@@ -1,5 +1,5 @@
-#ifndef __PARTITION_H__
-#define __PARTITION_H__
+#ifndef CTF_PARTITION_H
+#define CTF_PARTITION_H
 
 
 namespace CTF {

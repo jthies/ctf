@@ -1,5 +1,5 @@
-#ifndef __SCHEDULE_H__
-#define __SCHEDULE_H__
+#ifndef CTF_SCHEDULE_H
+#define CTF_SCHEDULE_H
 #include "common.h"
 #include <queue>
 #include "idx_tensor.h"

@@ -1,5 +1,5 @@
-#ifndef __EXPRESSION_H__
-#define __EXPRESSION_H__
+#ifndef CTF_EXPRESSION_H
+#define CTF_EXPRESSION_H
 
 #include "term.h"
 #include "functions.h"

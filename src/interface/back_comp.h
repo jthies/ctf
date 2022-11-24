@@ -1,5 +1,5 @@
-#ifndef __BACK_COMP_H__
-#define __BACK_COMP_H__
+#ifndef CTF_BACK_COMP_H
+#define CTF_BACK_COMP_H
 
 /* pure double version of templated namespace CTF,
    'using namespace CTF_double' cannot be used in combination in conjunction with 'using namespace CTF' */

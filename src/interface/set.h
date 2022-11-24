@@ -1,5 +1,5 @@
-#ifndef __SET_H__
-#define __SET_H__
+#ifndef CTF_SET_H
+#define CTF_SET_H
 
 #include "../tensor/algstrct.h"
 #include "functions.h"

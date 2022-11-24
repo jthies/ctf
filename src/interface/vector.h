@@ -1,5 +1,5 @@
-#ifndef __VECTOR_H__
-#define __VECTOR_H__
+#ifndef CTF_VECTOR_H
+#define CTF_VECTOR_H
 
 namespace CTF {
 

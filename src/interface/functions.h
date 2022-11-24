@@ -1,5 +1,5 @@
-#ifndef __FUNCTIONS_H__
-#define __FUNCTIONS_H__
+#ifndef CTF_FUNCTIONS_H
+#define CTF_FUNCTIONS_H
 
 #include "../scaling/scaling.h"
 #include "../summation/summation.h"

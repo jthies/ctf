@@ -1,5 +1,5 @@
-#ifndef __GROUP_H__
-#define __GROUP_H__
+#ifndef CTF_GROUP_H
+#define CTF_GROUP_H
 
 #include "../tensor/algstrct.h"
 

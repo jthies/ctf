@@ -1,5 +1,5 @@
-#ifndef __TIMER_H__
-#define __TIMER_H__
+#ifndef CTF_TIMER_H
+#define CTF_TIMER_H
 
 #include "common.h"
 

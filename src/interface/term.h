@@ -1,5 +1,5 @@
-#ifndef __TERM_H__
-#define __TERM_H__
+#ifndef CTF_TERM_H
+#define CTF_TERM_H
 
 #include <map>
 #include <set>

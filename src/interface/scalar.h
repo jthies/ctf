@@ -1,5 +1,5 @@
-#ifndef __SCALAR_H__
-#define __SCALAR_H__
+#ifndef CTF_SCALAR_H
+#define CTF_SCALAR_H
 namespace CTF {
 
   /**

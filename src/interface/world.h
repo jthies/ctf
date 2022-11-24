@@ -1,5 +1,5 @@
-#ifndef __WORLD_H__
-#define __WORLD_H__
+#ifndef CTF_WORLD_H
+#define CTF_WORLD_H
 
 #include "common.h"
 #include <set>

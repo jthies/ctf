@@ -1,5 +1,5 @@
-#ifndef __MONOID_H__
-#define __MONOID_H__
+#ifndef CTF_MONOID_H
+#define CTF_MONOID_H
 
 namespace CTF_int {
   template <typename dtype>

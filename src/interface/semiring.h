@@ -1,5 +1,5 @@
-#ifndef __SEMIRING_H__
-#define __SEMIRING_H__
+#ifndef CTF_SEMIRING_H
+#define CTF_SEMIRING_H
 
 #include "functions.h"
 #include "../sparse_formats/csr.h"

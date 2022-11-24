@@ -1,5 +1,5 @@
-#ifndef __RING_H__
-#define __RING_H__
+#ifndef CTF_RING_H
+#define CTF_RING_H
 
 #include "../tensor/algstrct.h"
 

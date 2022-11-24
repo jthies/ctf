@@ -1,5 +1,5 @@
-#ifndef __MATRIX_H__
-#define __MATRIX_H__
+#ifndef CTF_MATRIX_H
+#define CTF_MATRIX_H
 
 namespace CTF {
   /**

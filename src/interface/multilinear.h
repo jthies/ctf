@@ -1,5 +1,5 @@
-#ifndef __MULTILINEAR_H__
-#define __MULTILINEAR_H__
+#ifndef CTF_MULTILINEAR_H
+#define CTF_MULTILINEAR_H
 
 
 namespace CTF {

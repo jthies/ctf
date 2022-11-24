@@ -1,5 +1,5 @@
-#ifndef __KERNEL_H__
-#define __KERNEL_H__
+#ifndef CTF_KERNEL_H
+#define CTF_KERNEL_H
 
 #include "../sparse_formats/csr.h"
 namespace CTF{
